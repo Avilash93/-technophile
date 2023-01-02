@@ -1,0 +1,12 @@
+
+.bg-primary-navbar{
+    background: #0f2027 ;   
+}
+.bg-primary-welcome{
+  background: rgb(3,39,57);
+}
+/* vertical Border CSS*/
+/*Display Image in card*/
+.embed-responsive .card-img-top {
+    object-fit: cover;
+}
